@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "image": "images/1.jpg",
+    "category": "Electronics",
+    "price": 2999,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "image": "images/2.jpg",
+    "category": "Electronics",
+    "price": 4999,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "Running Shoes",
+    "image": "images/3.jpg",
+    "category": "Fashion",
+    "price": 2499,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "title": "Coffee Maker",
+    "image": "images/4.jpg",
+    "category": "Home",
+    "price": 3499,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Backpack",
+    "image": "images/5.jpg",
+    "category": "Accessories",
+    "price": 1899,
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "title": "Desk Lamp",
+    "image": "images/6.jpg",
+    "category": "Home",
+    "price": 1599,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "title": "Bluetooth Speaker",
+    "image": "images/7.jpg",
+    "category": "Electronics",
+    "price": 2299,
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "title": "Travel Mug",
+    "image": "images/8.jpg",
+    "category": "Lifestyle",
+    "price": 999,
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "Laptop Stand",
+    "image": "images/9.jpg",
+    "category": "Office",
+    "price": 1299,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "title": "Leather Wallet",
+    "image": "images/10.jpg",
+    "category": "Fashion",
+    "price": 1499,
+    "rating": 4.0
+  },
+  {
+    "id": 11,
+    "title": "Air Purifier",
+    "image": "images/11.jpg",
+    "category": "Home",
+    "price": 4299,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "Hiking Boots",
+    "image": "images/12.jpg",
+    "category": "Fashion",
+    "price": 2799,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "Gaming Mouse",
+    "image": "images/13.jpg",
+    "category": "Electronics",
+    "price": 1699,
+    "rating": 4.6
+  },
+  {
+    "id": 14,
+    "title": "Sunglasses",
+    "image": "images/14.jpg",
+    "category": "Accessories",
+    "price": 1199,
+    "rating": 4.2
+  },
+  {
+    "id": 15,
+    "title": "Fitness Band",
+    "image": "images/15.jpg",
+    "category": "Electronics",
+    "price": 1999,
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "title": "Cotton T-Shirt",
+    "image": "images/16.jpg",
+    "category": "Fashion",
+    "price": 799,
+    "rating": 4.1
+  }
+]
